@@ -6,7 +6,7 @@ ESP32-POE-A is a low-cost development kit for ESP32 with Active Power Over Ether
 
 - ESP32-Wroom module.
 - USB-C connector.
-- 16 Pins are available.
+- 17 Pins are available.
 - LAN8720A chip for Ethernet.
 - Si3404 for POE.
 - CH340G USB-UART converter.
