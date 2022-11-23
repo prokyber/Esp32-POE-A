@@ -29,4 +29,3 @@ For example projects go to https://github.com/prokyber/ESP32-POE-A-PlatformIO-Ex
 
 ## Schematics
 Schematics can be found in HW/Vx/schematics
-# Esp32-POE-A
