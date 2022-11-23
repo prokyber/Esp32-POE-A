@@ -26,6 +26,11 @@ Using vscode Platformio or Arduino IDE
 ## Uploading example project:
 For example projects go to https://github.com/prokyber/ESP32-POE-A-PlatformIO-Example and https://github.com/prokyber/ESP32-POE-A-ArduinoIde-Example
 
+## POE
+The POE-Jumper should be on to supply 3.3V to ESP32 via POE.
+
+## Important Notice
+There is no galvanic isolation, so the board should not be connected to POE while programming. Disconnect POE jumper or use non-POE cable and supply power via USB.
 
 ## Schematics
 Schematics can be found in HW/Vx/schematics
