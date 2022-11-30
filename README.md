@@ -18,7 +18,7 @@ ESP32-POE-A is a low-cost development kit for ESP32 with Active Power Over Ether
   - Active POE
 
 ## Pinout and dimensions
-![pinout](pictures/V0/pinoutV0.png)
+![pinout](pictures/V1/pinout_ver1.png)
 
 ## Programming options:
 Using vscode Platformio or Arduino IDE
